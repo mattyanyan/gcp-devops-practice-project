@@ -7,7 +7,7 @@ spec:
   selector:
     matchLabels:
       app: gcp
-  templates:
+  template:
     metadata:
       labels:
         app: gcp
